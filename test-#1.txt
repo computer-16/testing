@@ -1,0 +1,4 @@
+GitHub, Inc. adalah penyedia hosting Internet untuk pengembangan perangkat lunak dan kontrol versi menggunakan Git .
+Ia menawarkan kontrol versi terdistribusi dan fungsi manajemen kode sumber (SCM) dari Git, ditambah fitur-fiturnya sendiri.
+Ini menyediakan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug , permintaan fitur , manajemen tugas , integrasi berkelanjutan dan wiki untuk setiap proyek.
+ Berkantor pusat di California , telah menjadi anak perusahaanMicrosoft sejak 2018.
